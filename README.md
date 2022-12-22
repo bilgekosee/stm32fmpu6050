@@ -1,2 +1,2 @@
-# stm32fmpu6050
+# stm32f mpu 6050
  
